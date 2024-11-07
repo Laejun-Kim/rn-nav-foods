@@ -12,6 +12,7 @@ import { Ionicons } from "@expo/vector-icons";
 const Stack = createNativeStackNavigator();
 const Drawer = createDrawerNavigator();
 
+/** Drawer 구성을 리턴하는 함수 */
 const DrawerNavigator = () => {
   return (
     <Drawer.Navigator
