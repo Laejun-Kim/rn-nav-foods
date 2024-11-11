@@ -1,4 +1,4 @@
-# Number Guessing Game
+# Meal Recipe App
 
 ## 프로젝트 개요
 
