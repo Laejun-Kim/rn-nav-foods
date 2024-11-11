@@ -29,6 +29,6 @@ https://velog.io/@laejunkim/RN-11
 
 ## 샘플 이미지
 
-![Sample 1](assets/images/samples/sample1.png)
-![Sample 2](assets/images/samples/sample2.png)
-![Sample 3](assets/images/samples/sample3.png)
+![Sample 1](assets/samples/sample1.png)
+![Sample 2](assets/samples/sample2.png)
+![Sample 3](assets/samples/sample3.png)
